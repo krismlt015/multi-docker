@@ -22,3 +22,5 @@ after_success:
   - docker push kfenech2001/multi-nginx
   - docker push kfenech2001/multi-server
   - docker push kfenech2001/multi-worker
+
+
